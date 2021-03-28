@@ -2,7 +2,7 @@
 
 "Predicting trends in the quality of state-of-the-art neural networks without access to training or testing data"
 
-[https://zenodo.org/account/settings/github/repository/CalculatedContent/ww-trends-2021](Zenodo DOI)
+(Zenodo DOI)[https://zenodo.org/account/settings/github/repository/CalculatedContent/ww-trends-2021]
 
 ## Requirements to reproduce results: 
 
